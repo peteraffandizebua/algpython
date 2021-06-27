@@ -1,5 +1,5 @@
 """
-@author: Fajar F
+@author: peter affandi zebua
 """
 jwb = "y"
 
